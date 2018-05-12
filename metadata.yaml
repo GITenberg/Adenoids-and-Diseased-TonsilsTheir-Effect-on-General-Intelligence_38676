@@ -1,0 +1,27 @@
+_repo: Adenoids-and-Diseased-TonsilsTheir-Effect-on-General-Intelligence_38676
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rogers, Margaret Cobb
+    birthdate: 1895
+    gutenberg_agent_id: '39606'
+    url: http://www.gutenberg.org/2009/agents/39606
+description: ''
+gutenberg_issued: '2012-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38676'
+  lccn: '23005445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nasopharynx -- Adenoid vegetations'
+- !lcsh 'Tonsils -- Diseases'
+- !lcc 'RF'
+title: 'Adenoids and Diseased Tonsils: Their Effect on General Intelligence'
+url: http://www.gutenberg.org/ebooks/38676
